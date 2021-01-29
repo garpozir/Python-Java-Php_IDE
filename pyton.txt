@@ -1,0 +1,11 @@
+'''
+import qrcode
+text = "MrPython.blog.ir"
+qr = qrcode.make(text)
+qr.save("my_qrcode.png")
+print("Ok")
+'''
+def ali():
+	print("gffghf")
+for i in range(200):
+	ali()
